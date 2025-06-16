@@ -32,6 +32,10 @@ Welcome! If you're a WBJEE aspirant feeling confused about college selection, ch
 
 As someone who has gone through WBJEE and the confusing counselling process, I know how hard it is to find genuine, free advice. That’s why I started this — to give back and help others.
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 # 🙏 Acknowledgments
 
 Thanks to all open-source libraries, hardware manufacturers, and community contributors who made this project possible.
